@@ -3,9 +3,9 @@
 import sys
 import re
 import traceback
-import xlrd
 import yaml
 from dango.data import *
+import xlrd 
 
 XLS_ENCODING = 'utf-8'
 
